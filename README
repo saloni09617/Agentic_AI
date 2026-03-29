@@ -1,0 +1,45 @@
+# Autonomous Research Agent
+
+## Overview
+An AI-powered research agent built using LangChain that:
+- Searches the web
+- Extracts insights
+- Generates structured reports
+
+## Features
+- ReAct-based agent
+- Web + Wikipedia tools
+- Automated report generation
+
+## How to Run
+```bash
+python main.py
+
+---
+
+# 🔹 9. How to Submit
+
+### ✔ Upload on GitHub:
+- All code files
+- README
+- requirements.txt
+
+### ✔ Submit:
+- GitHub link
+- 2 outputs (copy paste or screenshots)
+
+---
+
+# 🔥 Bonus (to impress your professor)
+
+Add:
+- PDF report export  
+- Streamlit UI  
+- Memory in agent  
+
+---
+
+If you want, I can next:
+✅ convert this into **resume project points**  
+✅ help you **deploy it (Streamlit)**  
+✅ or make **PDF report auto-download feature**
